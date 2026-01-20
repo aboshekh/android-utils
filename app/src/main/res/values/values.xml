@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tag_radius" type="id" />
+    <item name="tag_radius_animator" type="id" />
+    <item name="tag_is_outline_set" type="id" />
+    <item name="unselected_color" type="id" />
+</resources>
